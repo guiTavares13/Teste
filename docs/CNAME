@@ -1,0 +1,1 @@
+ns2.dns-parking.com
